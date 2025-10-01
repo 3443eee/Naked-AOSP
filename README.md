@@ -30,5 +30,5 @@ And I am not.
 
 -There's no phone/sms app (Install your own!)
 
--You are free to make your own repos of this SEMI-GSI and modify whatever you want.
+-You are free to make your own repos of this and modify whatever you want.
 
