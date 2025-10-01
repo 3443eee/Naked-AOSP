@@ -16,15 +16,11 @@ And I am not.
 
 -Reboot to fastbootd, (through recovery mode or adb reboot fastboot)
 
--Connect your phone to your pc and open a terminal/command prompt and execute:
+-Connect your phone to your pc and open a terminal/command prompt and execute: `fastboot flash system <the name of the image>`
 
--`fastboot flash system <the name of the image>`
+-EXAMPLE: `fastboot flash system NakedAOSP.img`
 
--IE: `fastboot flash system NakedAOSP.img`
-
--After that, wipe using:
-
--`fastboot -w`
+-After that, wipe using: `fastboot -w`
 
 -Then reboot your device. `fastboot reboot`
 
